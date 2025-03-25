@@ -14,7 +14,7 @@ A data list with 2 lists of data:
 }
 }
 \source{
-\url{https://github.com/Bai-Li-NOAA/Age_Structured_Stock_Assessment_Model_Comparison}
+\url{https://github.com/NOAA-FIMS/Age_Structured_Stock_Assessment_Model_Comparison}
 }
 \usage{
 assamc_snappergrouper_ricker
