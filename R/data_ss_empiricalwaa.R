@@ -7,5 +7,5 @@
 #'   \item{input}{SS stock assessment input data list. It includes 5 lists of data: ss_data, ss_control, ss_starter, ss_forecast, ss_wtatage.}
 #'   ...
 #' }
-#' @source \url{https://github.com/nmfs-stock-synthesis/user-examples}
+#' @source \url{https://github.com/nmfs-ost/ss3-user-examples}
 "ss_empiricalwaa"

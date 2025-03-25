@@ -1,8 +1,14 @@
 Package: fishsad
 Title: Fisheries Stock Assessment Data
 Version: 0.0.0.9000
-Authors: NMFS National Modeling Team 
-Maintainer: NMFS National Modeling Team <bai.li@noaa.gov>
+Authors@R: c(
+    person(c("Christine", "C."), "Stawitz", role = "aut",
+           comment = c(ORCID = "0000-0003-3122-4501")),
+    person(c("Kathryn", "L."), "Doering", role = "aut",
+           comment = c(ORCID = "0000-0002-0396-7044")),
+    person("Bai", "Li",  , "bai.li@noaa.gov", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-8249-1442"))
+  ) 
 Description: This package is a data package. It contains input and output data from multiple stock assessment pacakges. The data can be used for model testing and comparison. 
 License: GPL-3
 Encoding: UTF-8

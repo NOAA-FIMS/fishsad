@@ -12,7 +12,7 @@ A data list with 1 list of data:
 }
 }
 \source{
-\url{https://github.com/nmfs-stock-synthesis/user-examples}
+\url{https://github.com/nmfs-ost/ss3-user-examples}
 }
 \usage{
 ss_empiricalwaa

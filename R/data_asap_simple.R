@@ -8,5 +8,5 @@
 #'   \item{output}{ASAP stock assessment output data list. It includes 58 lists of data.}
 #'   ...
 #' }
-#' @source \url{https://nmfs-fish-tools.github.io/ASAP/}
+#' @source \url{https://noaa-fisheries-integrated-toolbox.github.io/ASAP}
 "asap_simple"

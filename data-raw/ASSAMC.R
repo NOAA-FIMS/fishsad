@@ -1,6 +1,6 @@
 folder_name <- file.path("data-raw", "ASSAMC")
 
-# remotes::install_github("Bai-Li-NOAA/Age-Structured-Stock-Assessment-Model-Comparison")
+# remotes::install_github("NOAA-FIMS/Age-Structured-Stock-Assessment-Model-Comparison")
 library(ASSAMC)
 library(here)
 

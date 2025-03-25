@@ -9,5 +9,5 @@
 #'   \item{em_input}{ASSAMC stock assessment estimation model input data list. It includes 9 lists of data: L.obs, survey.obs, L.age.obs, survey.age.obs, n.L, n.survey, survey_q, cv.L, and cv.survey.}
 #'   ...
 #' }
-#' @source \url{https://github.com/Bai-Li-NOAA/Age_Structured_Stock_Assessment_Model_Comparison}
+#' @source \url{https://github.com/NOAA-FIMS/Age_Structured_Stock_Assessment_Model_Comparison}
 "assamc_snappergrouper_ricker"

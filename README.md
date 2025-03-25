@@ -7,7 +7,7 @@ Please install and load `fishsad` from Github using the `remotes` package as fol
 
 ```r
 install.packages("remotes")
-remotes::install_github("nmfs-fish-tools/fishsad")
+remotes::install_github("NOAA-FIMS/fishsad")
 library(fishsad)
 ```
 
